@@ -25,4 +25,4 @@ FlyingObject.prototype.fly = function(toObject, flyCompleteCb){
 
 FlyingObject.prototype.setPosition = function(x, y){
   this.$node.css({left: x, top: y});
-}
+};

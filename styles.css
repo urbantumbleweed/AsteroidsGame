@@ -31,3 +31,6 @@ body, a:link, a:visited, a:active{
   background-color: red;
   position: absolute;
 }
+.space-ship {
+  background-color: yellow;
+}
